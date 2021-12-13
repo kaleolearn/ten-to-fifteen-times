@@ -24,6 +24,8 @@ BAND:
     1/4 inch Cable
     Guitar Amp
     Amp microphone
+    Guitar Stand
+    Speaker monitor
   
   Drummer
     Microphone (to communicate to the other people in-ear monitors)
@@ -62,6 +64,7 @@ BAND:
         Drum mics
 
     Keyboardist
+      Keyboard Stand
 
     Organist
 
@@ -85,7 +88,7 @@ BAND:
                   Shure A58WS
          Mic Stand
          
-      DJ/Disk Jockey
+      DJ/Disk Jockey //Using it for Interludes, Stage Hands, Breaks
         1's and 2's
         
 
@@ -110,5 +113,11 @@ TECH:
   
   Lights
     Stage Lights
+      Corner Lights
+        Stage Left
+          6 Bulbs
+        Stage Right
+          6 Bulbs
+    
     Spotlight
         
