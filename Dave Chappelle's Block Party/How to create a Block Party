@@ -30,15 +30,19 @@ BAND:
     
     Drumset
       Kick
+        Mic
+
       Snare drums
         Main Snare
           Mic
         Side Snare
           Mic
+          
       Toms
         10" tom
         12" tom
         Floor tom
+        
       Cymbals
         Overhead Condenser Microphone (for cymbals)
 
@@ -64,13 +68,23 @@ BAND:
     Percussionist
     
     Horn Section
-      Trombone
-        Mic
+      Dynamic Mic
+        Shure SM 58
+          Shure A58WS
+      Mic Stand
+      
       Trumpet
-        Mic
+        Dynamic Mic
+                Shure SM 58
+                  Shure A58WS
+         Mic Stand
+         
       Saxophone
-        Mic
-        
+         Dynamic Mic
+                Shure SM 58
+                  Shure A58WS
+         Mic Stand
+         
       DJ/Disk Jockey
         1's and 2's
         
